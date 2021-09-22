@@ -1,0 +1,40 @@
+.container {
+  margin-top: 50px;
+}
+.title {
+  font-size: 32px;
+  font-family: "Open Sans Condensed";
+  margin-bottom: 20px;
+}
+
+.warrenty_container {
+  height: 318px;
+  width: 100%;
+  border: 1px solid var(--clr-light-border);
+}
+
+.warrenty_title {
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px;
+}
+.row {
+  display: flex;
+  /* justify-content: flex-start; */
+}
+.col {
+  flex: 1;
+  margin: 20px;
+  height: 185px;
+  background-color: #f4f5f7;
+  padding: 20px;
+}
+
+.heading {
+  font-weight: 700;
+  line-height: 30px;
+}
+.content {
+  font-size: 14px;
+  line-height: 30px;
+}
