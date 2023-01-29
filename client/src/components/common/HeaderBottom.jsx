@@ -22,7 +22,7 @@ const HeaderBottom = () => {
             <Link to='/shop'>Shop</Link>
             <Link to='#'>New Arrival</Link>
             <Link to='#'>Hot Deals</Link>
-            <Link to='#'>Contact Us</Link>
+            <Link to='/contact-us'>Contact Us</Link>
           </div>
         </div>
         <div className={styles.header_right}>
